@@ -1,0 +1,20 @@
+* {
+    background-color: #00009F;
+    font-family: 'Arial', sans-serif
+}
+
+h1, h2, h3, p, ul, ol {
+    color: white;
+}
+
+a {
+    color: grey;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 30px;
+}
